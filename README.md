@@ -4,7 +4,6 @@
 - [Overview](#overview)
 - [Installation](#installation)
 - [API Documentation](#api-documentation)
-- [Example App](#example-app)
 
 ## Overview
 
@@ -41,7 +40,7 @@ Builds
 2. When prompted, add the `CryptonetPackage` SDK repository:
 
 ```swift
-https://github.com/prividentity/cryptonets-ios-sdk
+https://github.com/openinfer/cryptonets-ios-sentry
 ```
 3. Link your Target to the SDK.
 
